@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/custom/body.css",
+	"sources": [
+		"../sass/custom/body.scss"
+	],
+	"sourcesContent": [
+		"main {\n    height: 100%;\n    width: 100%;\n}\n\n.py-10 {\n    padding-top: 10rem;\n    padding-bottom: 10rem;\n}\n\n.card {\n    margin-top: 2rem;\n}"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,IAAK;EACb,KAAK,EAAE,IAAK;CACf;;;AAED,AAAA,MAAM,CAAC;EACH,WAAW,EAAE,KAAM;EACnB,cAAc,EAAE,KAAM;CACzB;;;AAED,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,IAAK;CACpB",
+	"names": []
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/custom/header.css",
+	"sources": [
+		"../sass/custom/header.scss"
+	],
+	"sourcesContent": [
+		".hero-img {\n    /* Full height */\n    height: 75%;\n    /* Center and scale the image nicely */\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\n    .hero-img-text-block {\n        display: inline-block;\n        background-color: black;\n    }\n}\n"
+	],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACN,iBAAiB;EACjB,MAAM,EAAE,GAAI;EACZ,uCAAuC;EACvC,mBAAmB,EAAE,MAAO;EAC5B,iBAAiB,EAAE,SAAU;EAC7B,eAAe,EAAE,KAAM;CAK1B;;;AAXD,AAOI,SAPK,CAOL,oBAAoB,CAAC;EACjB,OAAO,EAAE,YAAa;EACtB,gBAAgB,EAAE,KAAM;CAC3B",
+	"names": []
+}

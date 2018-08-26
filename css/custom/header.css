@@ -1,0 +1,17 @@
+/* line 1, C:/Users/erago/Projects/pho84/css/sass/custom/header.scss */
+.hero-img {
+  /* Full height */
+  height: 75%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 8, C:/Users/erago/Projects/pho84/css/sass/custom/header.scss */
+.hero-img .hero-img-text-block {
+  display: inline-block;
+  background-color: black;
+}
+
+/*# sourceMappingURL=../../custom/header.map */

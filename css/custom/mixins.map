@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/custom/mixins.css",
+	"sources": [
+		"../sass/custom/mixins.scss"
+	],
+	"sourcesContent": [
+		"// Responsive Fonts\n$sm-width: 576px;\n$md-width: 768px;\n$lg-width: 992px;\n$xl-width: 1200px;\n@mixin media-sm {\n    @media (min-width: #{$sm-width}) and (max-width: #{$md-width - 1px}) {\n        @content;\n    }\n}\n\n@mixin media-md {\n    @media (min-width: #{$md-width}) and (max-width: #{$lg-width - 1px}) {\n        @content;\n    }\n}\n\n@mixin media-lg {\n    @media (min-width: #{$lg-width}) and (max-width: #{$xl-width - 1px}) {\n        @content;\n    }\n}\n\n@mixin media-xl {\n    @media (min-width: #{$xl-width}) {\n        @content;\n    }\n}"
+	],
+	"mappings": "",
+	"names": []
+}

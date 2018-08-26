@@ -1,0 +1,12 @@
+.hero-img {
+    /* Full height */
+    height: 75%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .hero-img-text-block {
+        display: inline-block;
+        background-color: black;
+    }
+}
